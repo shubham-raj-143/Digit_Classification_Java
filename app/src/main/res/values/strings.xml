@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">digit_classifier</string>
+    <string name="clear_button">clear button</string>
+</resources>
